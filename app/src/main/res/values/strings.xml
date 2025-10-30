@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">NoteKeeperApp</string>
+    <string name="oct_31_2025_10_30">Oct 31, 2025 10:30</string>
+    <string name="note_content_preview">Note content preview</string>
+    <string name="note_title">Note Title</string>
+    <string name="add_note">Add Note</string>
+    <string name="title">Title</string>
+    <string name="content">Content</string>
+    <string name="save">Save</string>
+    <string name="delete">Delete</string>
+</resources>
